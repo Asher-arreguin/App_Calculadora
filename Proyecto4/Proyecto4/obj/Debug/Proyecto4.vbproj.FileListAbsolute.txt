@@ -1,0 +1,12 @@
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe.config
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\bin\Debug\Proyecto4.pdb
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\bin\Debug\Proyecto4.xml
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbprojAssemblyReference.cache
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Form1.resources
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Resources.resources
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.GenerateResource.cache
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.CoreCompileInputs.cache
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.exe
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.xml
+C:\DIEGO ASHER 25121\Proyecto4\Proyecto4\obj\Debug\Proyecto4.pdb
